@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tomfparker.github.io/QIC-group-web//al-folio/sitemap.xml
+Sitemap: https://tomfparker.github.io/QIC-group-web//sitemap.xml
