@@ -1,58 +1,39 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
+image : /assets/img/Blackboard-QIC-1152x648.jpg
+
+
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+The Quantum Information and Computing group aims to better understand and harness the power of near-term quantum computers to solve scientific problems. We are particularly interested in the rapidly growing field of quantum machine learning. Part of our work focuses on applying quantum information theory and classical learning theory to sit quantum machine learning on stronger foundations. In parallel, we are working to develop new algorithms for simulating quantum systems on noisy quantum computers. In both cases, we are interested in exploring applications of our work to other areas physics including material science, quantum chemistry, high energy physics and even quantum foundations.
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+<br />
+
+---
+
+### Quantum Machine Learning
+
+<br />
+
+![blackboard]({{page.image | relative_url}}){:  width="300" style="float: left; margin-right: 1em;"}    The Quantum Information and Computing group aims to better understand and harness the power of near-term quantum computers to solve scientific problems.
+
+We are particularly interested in the rapidly growing field of quantum machine learning. Part of our work focuses on applying quantum information theory and classical learning theory to sit quantum machine learning on stronger foundations. In parallel, we are working to develop new algorithms for simulating quantum systems on noisy quantum computers. In both cases, we are interested in exploring applications of our work to other areas physics including material science, quantum chemistry, high energy physics and even quantum foundations.
+
+<br />
+
+---
+
+
+### Algorithms for NISQ Machines
+<br />
+
+![blackboard]({{page.image | relative_url}}){:  width="300" style="float: right; margin-left: 1em;"}    The Quantum Information and Computing group aims to better understand and harness the power of near-term quantum computers to solve scientific problems.
+
+We are particularly interested in the rapidly growing field of quantum machine learning. Part of our work focuses on applying quantum information theory and classical learning theory to sit quantum machine learning on stronger foundations. In parallel, we are working to develop new algorithms for simulating quantum systems on noisy quantum computers. In both cases, we are interested in exploring applications of our work to other areas physics including material science, quantum chemistry, high energy physics and even quantum foundations.
