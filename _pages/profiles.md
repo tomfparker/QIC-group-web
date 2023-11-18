@@ -5,24 +5,50 @@ title: people
 description:  
 nav: true
 nav_order: 6
+image : /assets/img/group.png
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: Zoe-Holmes.jpg
+    image: zoe.jpeg
     content: about_zoe.md
     image_circular: false # crops the image to make it circular
  
   - align: left
-    image: prof_pic.jpg
-    content: about_postdoc_1.md
+    image: Supanut.jpg
+    content: about_supanut.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: prof_pic.jpg
-    content: about_student_1.md
+    image: Sacha.jpg
+    content: about_sacha.md
     image_circular: false # crops the image to make it circular
 
- 
+  - align: left
+    image: Manuel.jpeg
+    content: about_manuel.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: Ricard.png
+    content: about_ricard.md
+    image_circular: false # crops the image to make it circular
+    image_square: true
+
+  - align: left
+    image: Reyhaneh.jpg
+    content: about_reyhaneh.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: Joe.jpg
+    content: about_joe.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: 1000015226.jpg
+    content: about_marc.md
+    image_circular: false # crops the image to make it circular
+
 ---
