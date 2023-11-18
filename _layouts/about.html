@@ -5,11 +5,13 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+
         
           <h1 class="post-title">
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
+          <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+        
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
