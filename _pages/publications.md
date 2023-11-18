@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_no_img
 permalink: /publications/
 title: publications
 description: Recent pubilcations from the QIC group. 
