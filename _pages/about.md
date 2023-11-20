@@ -33,7 +33,7 @@ To **apply**, please follow [this](https://docs.google.com/forms/d/e/1FAIpQLScm6
 
 ### how to find us
 
-We're based in the [physics department](https://www.epfl.ch/schools/sb/research/iphys/) on the main campus of [EPFL](https://www.epfl.ch/campus/visitors/coming-to-epfl/) in Laussane, Switzerland. The best way to get in touch with us is via email; Zoë Holmes (zoe [dot] holmes [at] epfl [dot] ch).
+We're based in the [physics department](https://www.epfl.ch/schools/sb/research/iphys/) on the main campus of [EPFL](https://www.epfl.ch/campus/visitors/coming-to-epfl/) in Laussane, Switzerland. The best way to get in touch with us is via email @ zoe [dot] holmes [at] epfl [dot] ch.
 
 You can also find more information about us on our [webpage](https://www.epfl.ch/labs/qic/), hosted by EPFL.
 

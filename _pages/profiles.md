@@ -5,7 +5,6 @@ title: people
 description:  
 nav: true
 nav_order: 6
-image : /assets/img/group.png
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
