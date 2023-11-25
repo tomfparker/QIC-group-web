@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://qicgroup.ch/QIC-group-web//sitemap.xml
+Sitemap: https://qicgroup.ch/sitemap.xml
