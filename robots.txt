@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://qicgroup.chthe subpath of your site, e.g. /blog//sitemap.xml
+Sitemap: https://qicgroup.ch/QIC-group-web//sitemap.xml
