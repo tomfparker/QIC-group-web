@@ -12,7 +12,13 @@ image : /assets/img/bernouli-centre.jpeg
 
 ---
 
-Welcome to the Quantum Information and Computing (QIC) group at EPFL. We work on all sorts to do with quantum algorithms and quantum machine learning with a focus largely (but not exclusively) on methods for near-term quantum computers. There are two main strands to our work currently. Firstly, the ‘foundations’ of Quantum Machine Learning. This involves trying to analytically understand things like the trainability and generalizability of quantum learning models in order to identify directions for quantum advantage. Or, more often, proving no-go theorems to highlight dead ends where one cannot expect to achieve a quantum advantage. Secondly, we are interesting in developing new methods, and better understanding pre-existing methods, for simulating quantum systems. That said, we are a group that tends to get excited by different ideas quite quickly so by the time you read it this description might be a little out of date. The best thing to do is click through our google scholar pages on the ‘people’ page to get a sense of the type of things we’ve recently been publishing on. You can also watch talks from members of the QIC group below.  
+There are two main strands to our work currently. 
+
+Firstly, the ‘foundations’ of Quantum Machine Learning. This involves trying to analytically understand things like the trainability and generalizability of quantum learning models in order to identify directions for quantum advantage. Or, more often, proving no-go theorems to highlight dead ends where one cannot expect to achieve a quantum advantage.
+
+Secondly, we are interested in developing new methods, and better understanding pre-existing methods, for simulating quantum systems. The end goal here is to develop tools that one day could potentially (conditional on improvements to quantum hardware) be used in areas such as material science, quantum chemistry and high energy physics.
+
+That said, we are a group that tends to get excited by different ideas quite quickly, so by the time you read it this description might be a little out of date. The best thing to do is click through our google scholar pages on the ‘people’ page to get a sense of the type of things we’ve recently been publishing on. You can also watch talks from members of the QIC group below.
 
 
 
