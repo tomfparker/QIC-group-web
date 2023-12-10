@@ -14,7 +14,11 @@ image : /assets/img/bernouli-centre.jpeg
 
 There are two main strands to our work currently. 
 
+#### quantum machine learning
+
 Firstly, the ‘foundations’ of Quantum Machine Learning. This involves trying to analytically understand things like the trainability and generalizability of quantum learning models in order to identify directions for quantum advantage. Or, more often, proving no-go theorems to highlight dead ends where one cannot expect to achieve a quantum advantage.
+
+#### simulating quantum systems
 
 Secondly, we are interested in developing new methods, and better understanding pre-existing methods, for simulating quantum systems. The end goal here is to develop tools that one day could potentially (conditional on improvements to quantum hardware) be used in areas such as material science, quantum chemistry and high energy physics.
 
