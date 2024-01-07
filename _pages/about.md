@@ -11,7 +11,7 @@ social: true  # includes social icons at the bottom of the page
 image : /assets/img/Blackboard-QIC-1152x648.jpg
 ---
 
-Welcome to Zoë Holmes's Quantum Information and Computing (QIC) group at EPFL. We work on all sorts to do with quantum algorithms and quantum machine learning with a focus largely (but not exclusively) on methods for near-term quantum computers.
+Welcome to Zoë Holmes' Quantum Information and Computing (QIC) group at EPFL. We work on all sorts to do with quantum algorithms and quantum machine learning with a focus largely (but not exclusively) on methods for near-term quantum computers.
 
 
 --- 
