@@ -2,7 +2,7 @@
 layout: page_no_img
 permalink: /publications/
 title: publications
-description: Recent pubilcations from the QIC group. 
+description: Recent selected publications from the QIC group. 
 nav: true
 nav_order: 7
 image : /assets/img/pubs.png
