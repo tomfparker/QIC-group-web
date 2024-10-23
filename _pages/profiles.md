@@ -13,10 +13,10 @@ profiles:
     image: zoe.jpeg
     content: about_zoe.md
     image_circular: false # crops the image to make it circular
- 
+
   - align: left
-    image: Supanut.jpg
-    content: about_supanut.md
+    image: tyson.jpeg
+    content: about_tyson.md
     image_circular: false # crops the image to make it circular
 
   - align: left
@@ -48,6 +48,11 @@ profiles:
   - align: left
     image: 1000015226.jpg
     content: about_marc.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: Supanut.jpg
+    content: about_supanut.md
     image_circular: false # crops the image to make it circular
 
 ---
