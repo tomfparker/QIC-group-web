@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle:
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -20,11 +20,11 @@ Welcome to Zoë Holmes' Quantum Information and Computing (QIC) group at EPFL. W
 
 **Two Post Doc positions** are available in the QIC group at EPFL. 
 
-Position 1: This position will be focused broadly on Quantum Learning Theory - i.e. broadly analytic work trying to understand the scalability of quantum machine learning. 2 year position, immediate start possible but somewhat flexible.
+Position 1: This position will be focused broadly on analysing the potential of near-term quantum algorithms for quantum chemistry joint with Roche. 2 year position, immediate start possible but somewhat flexible.
 
 Position 2: This position is joint with Christa Zoufal and Stefan Woerner at IBM Quantum with a focus broadly on error analysis and algorithm development for real and imaginary time quantum evolution. 3 year position, immediate start possible but flexible.
 
-Initial submission deadline Nov. 11th 2023 / until the positions are filled.
+Rolling deadline
 
 To **apply**, please follow [this](https://docs.google.com/forms/d/e/1FAIpQLScm6P163UChmDzkHN9kidxld_cwMGisPMVre8ZkkuUfbQntjw/viewform?pli=1) link.
 
