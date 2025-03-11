@@ -1,6 +1,6 @@
 ---
 layout: page_no_img
-title: Picture Gallery
+title: gallery
 permalink: /gallery/
 description: 
 nav: true
