@@ -16,7 +16,7 @@ profiles:
 
   - align: left
     image: armando.weiji
-    content: about_weiji.md
+    content: about_weijie.md
     image_circular: false # crops the image to make it circular
 
   - align: left
