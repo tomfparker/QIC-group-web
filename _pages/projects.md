@@ -79,6 +79,7 @@ Zoë Holmes, QHack 2022.
 </div>
 
 <br/>
+
 ---
 
 #### Subtleties in the Trainability of Quantum Machine Learning Models
