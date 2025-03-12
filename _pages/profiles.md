@@ -15,12 +15,12 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: armando.weiji
+    image: weiji.jpg
     content: about_weijie.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: yudia.jpeg
+    image: yudia.jpg
     content: about_yudia.md
     image_circular: false # crops the image to make it circular
 
