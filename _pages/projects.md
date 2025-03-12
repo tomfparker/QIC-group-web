@@ -12,6 +12,26 @@ image : /assets/img/bernouli-centre.jpeg
 
 ---
 
+<style>
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+    margin: 0 auto; /* Center the container */
+  }
+
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
 There are two main strands to our work currently. 
 
 #### quantum machine learning
@@ -32,7 +52,9 @@ That said, we are a group that tends to get excited by different ideas quite qui
 #### Exponential Concentration in Quantum Generative Modeling and Quantum Kernel Methods
 Zoë Holmes, 2023 Mathematical Aspects of Quantum Learning Workshop.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V81sx-d3lIA?si=bIyKSYJxecw6zB7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/V81sx-d3lIA?si=bIyKSYJxecw6zB7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <br/>
 
@@ -41,23 +63,31 @@ Zoë Holmes, 2023 Mathematical Aspects of Quantum Learning Workshop.
 #### Trainability Barriers and Opportunities in Quantum Generative Modeling
 Manuel Rudolph, QAISG 2023.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Akh-0v8tBkE?si=0_xNui8BHhLfoK3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/your_video_id" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <br/>
+
 
 ---
 
 #### Expressibility & Trainability: Balancing the Ingredients of an Effective VQA
 Zoë Holmes, QHack 2022.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RO3g7B0-IKA?si=l6f41d6jGXT5geqL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/RO3g7B0-IKA?si=l6f41d6jGXT5geqL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <br/>
-
 ---
 
 #### Subtleties in the Trainability of Quantum Machine Learning Models
 Thanaslip Supanut, CQT 2022.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fDc7PODhuHM?si=lxp7Mm_WciGORAs-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/embed/fDc7PODhuHM?si=lxp7Mm_WciGORAs-"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
