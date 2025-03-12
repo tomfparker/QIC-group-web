@@ -64,11 +64,10 @@ Zoë Holmes, 2023 Mathematical Aspects of Quantum Learning Workshop.
 Manuel Rudolph, QAISG 2023.
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/your_video_id" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Akh-0v8tBkE?si=KuSIbhqCTfCws9VA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
-
 
 ---
 
@@ -86,7 +85,7 @@ Zoë Holmes, QHack 2022.
 Thanaslip Supanut, CQT 2022.
 
 <div class="video-container">
-  <iframe  src="https://www.youtube.com/embed/fDc7PODhuHM?si=lxp7Mm_WciGORAs-"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/fDc7PODhuHM?si=lxp7Mm_WciGORAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
