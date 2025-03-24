@@ -14,10 +14,7 @@ profiles:
     content: about_zoe.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
-    image: weiji.jpg
-    content: about_weijie.md
-    image_circular: false # crops the image to make it circular
+
 
   - align: left
     image: yudia.jpg
@@ -33,6 +30,17 @@ profiles:
   - align: left
     image: tyson.jpg
     content: about_tyson.md
+    image_circular: false # crops the image to make it circular
+
+
+  - align: left
+    image: weiji.jpg
+    content: about_weijie.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: Hela.jpg
+    content: about_hela.md
     image_circular: false # crops the image to make it circular
 
   - align: left
