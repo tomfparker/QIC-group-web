@@ -97,7 +97,7 @@ Thanaslip Supanut, CQT 2022.
 Manuel Rudolph, QRST 2021.
 
 <div class="video-container">
-  <iframe  src="https://www.youtube.com/watch?v=19yecdQ8tAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/19yecdQ8tAs?si=L6j8BunSvDnBHuK5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -108,7 +108,7 @@ Manuel Rudolph, QRST 2021.
 Manuel Rudolph, QAISG 2023.
 
 <div class="video-container">
-  <iframe  src="https://www.youtube.com/watch?v=Akh-0v8tBkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/Akh-0v8tBkE?si=MFOUWXb1NSiXtjEn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -119,7 +119,7 @@ Manuel Rudolph, QAISG 2023.
 Manuel Rudolph, HonHai (Foxconn) QC meeting 2024.
 
 <div class="video-container">
-  <iframe  src="https://www.youtube.com/watch?v=rapEvVx4gt8&t=2462s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/rapEvVx4gt8?si=yR6bVqxwimtYvfB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -130,7 +130,7 @@ Manuel Rudolph, HonHai (Foxconn) QC meeting 2024.
 Zoë Holmes, Quantum Spain 2024.
 
 <div class="video-container">
-  <iframe  src="https://www.youtube.com/watch?v=KDvHuFOooKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/KDvHuFOooKw?si=tC4qjVZlaSRPdDPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -141,7 +141,7 @@ Zoë Holmes, Quantum Spain 2024.
 Zoë Holmes, PennyLane 2024.
 
 <div class="video-container">
-  <iframe  src="https://www.youtube.com/watch?v=3Hc9pq5bsWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/3Hc9pq5bsWM?si=xGmYx5L7Uc_xHcV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -152,7 +152,7 @@ Zoë Holmes, PennyLane 2024.
 Weijie Xiong, QAISG 2024.
 
 <div class="video-container">
-  <iframe  src="https://www.youtube.com/watch?v=Si_Dk0DJtl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/Si_Dk0DJtl8?si=9CPH9JrcHH_txTbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
