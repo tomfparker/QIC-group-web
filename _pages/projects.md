@@ -91,3 +91,68 @@ Thanaslip Supanut, CQT 2022.
 
 <br/>
 
+---
+
+#### Visualizing High-Dimensional Landscapes in VQAs using ORQVIZ
+Manuel Rudolph, QRST 2021.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/watch?v=19yecdQ8tAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+#### Trainability barriers and opportunities in quantum generative modeling
+Manuel Rudolph, QAISG 2023.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/watch?v=Akh-0v8tBkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+#### Pauli propagation for classically simulating quantum circuits
+Manuel Rudolph, HonHai (Foxconn) QC meeting 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/watch?v=rapEvVx4gt8&t=2462s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+#### Does provable absence of barren plateaus imply classical simulability?
+Zoë Holmes, Quantum Spain 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/watch?v=KDvHuFOooKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+#### Zoë Holmes | Between Two Kets
+Zoë Holmes, PennyLane 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/watch?v=3Hc9pq5bsWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+#### On fundamental aspects of quantum extreme learning machines
+Weijie Xiong, QAISG 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/watch?v=Si_Dk0DJtl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
