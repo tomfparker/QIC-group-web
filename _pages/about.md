@@ -15,7 +15,7 @@ image : /assets/img/grouplake.jpeg
 Welcome to Zoë Holmes' Quantum Information and Computing (QIC) group at EPFL. We work on all sorts to do with quantum algorithms and quantum machine learning with a focus largely (but not exclusively) on methods for near-term quantum computers.
 
 
---- 
+<!-- --- 
 
 ### open positions
 
@@ -29,8 +29,15 @@ Rolling deadline
 
 To **apply**, please follow [this](https://docs.google.com/forms/d/e/1FAIpQLScm6P163UChmDzkHN9kidxld_cwMGisPMVre8ZkkuUfbQntjw/viewform?pli=1) link.
 
---- 
+---  -->
 
+---
+
+### open positions
+
+We are not currently actively hiring but please feel free to send me a quick email to see if any positions have become available.
+
+---
 
 ### how to find us
 
