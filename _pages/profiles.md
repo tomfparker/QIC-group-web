@@ -34,13 +34,18 @@ profiles:
 
 
   - align: left
-    image: weiji.jpg
-    content: about_weijie.md
+    image: yanting.jpg
+    content: about_yanting.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: Hela.jpg
-    content: about_hela.md
+    image: mehrad.jpg
+    content: about_mehrad.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: weiji.jpg
+    content: about_weijie.md
     image_circular: false # crops the image to make it circular
 
   - align: left
@@ -62,6 +67,11 @@ profiles:
   - align: left
     image: Reyhaneh.jpg
     content: about_reyhaneh.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: Hela.jpg
+    content: about_hela.md
     image_circular: false # crops the image to make it circular
 
   - align: left
