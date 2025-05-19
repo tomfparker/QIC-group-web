@@ -13,50 +13,57 @@ profiles:
     image: zoe.jpeg
     content: about_zoe.md
     image_circular: false # crops the image to make it circular
-
+    image_square: true
 
 
   - align: left
     image: yudia.jpg
     content: about_yudia.md
     image_circular: false # crops the image to make it circular
+    image_square: true
+
 
   - align: left
     image: armando.jpeg
     content: about_armando.md
     image_circular: false # crops the image to make it circular
-
+    image_square: true
 
   - align: left
     image: tyson.jpg
     content: about_tyson.md
     image_circular: false # crops the image to make it circular
-
+    image_square: true
 
   - align: left
     image: yanting.jpg
     content: about_yanting.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: mehrad.jpg
     content: about_mehrad.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: weiji.jpg
     content: about_weijie.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: Sacha.jpg
     content: about_sacha.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: Manuel.jpeg
     content: about_manuel.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: Ricard.png
@@ -68,26 +75,31 @@ profiles:
     image: Reyhaneh.jpg
     content: about_reyhaneh.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: Hela.jpg
     content: about_hela.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: Joe.jpg
     content: about_joe.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
-    image: 1000015226.jpg
+    image: marc.jpg
     content: about_marc.md
     image_circular: false # crops the image to make it circular
+    image_square: true
 
   - align: left
     image: Supanut.jpg
     content: about_supanut.md
     image_circular: false # crops the image to make it circular
-
+    image_square: true
+    
 ---
 
