@@ -90,13 +90,15 @@ profiles:
     image_circular: false # crops the image to make it circular
     image_square: true
 
+
+former_profiles:
+
   - align: left
     image: Supanut.jpg
     content: about_supanut.md
     image_circular: false # crops the image to make it circular
     image_square: true
 
-former_profiles:
   - align: left
     image: tyson.jpg
     content: about_tyson.md
