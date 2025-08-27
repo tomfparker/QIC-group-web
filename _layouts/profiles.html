@@ -6,6 +6,7 @@ layout: page_no_img
   <article>
 
     {%- if page.profiles and page.profiles.size > 0 -%}
+      <h2>People</h2>
       {%- for profile in page.profiles -%}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
