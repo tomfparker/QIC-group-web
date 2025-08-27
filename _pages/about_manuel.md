@@ -4,4 +4,4 @@ Manuel is from Germany, graduated with a M.Sc in Physics from the University of 
 
 [google scholar](https://scholar.google.de/citations?user=rzXS-bMAAAAJ&hl=de)
 
-[@QuantumManuel]()
+[@QuantumManuel](https://x.com/QuantumManuel)
