@@ -5,4 +5,4 @@ After his postdoc in QIC, Supanut joined Chulalongkorn University as a professor
 
 [google scholar](https://scholar.google.com/citations?user=r5_kjS0AAAAJ&hl=en)
 
-[@s_thanaslip]()
+[@s_thanaslip](https://x.com/s_thanasilp?lang=en)
