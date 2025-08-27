@@ -2,49 +2,75 @@
 layout: page_no_img
 ---
 
-<!-- about.html -->
-      <div class="post">
+<div class="post">
+  <article>
 
-        <article>
-          {% if page.profiles -%}
-          {% for profile in page.profiles %}
-          <hr>
-          <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if profile.image %}
-              {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+    {%- if page.profiles and page.profiles.size > 0 -%}
+      {%- for profile in page.profiles -%}
+        <hr>
+        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          {%- if profile.image -%}
+            {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+            {%- if profile.image_circular -%}
+              {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+            {%- else -%}
+              {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+            {%- endif -%}
+            {%- include figure.html path=profile_image_path class=profile_image_class alt=profile.image -%}
+          {%- endif -%}
 
-              {% if profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-              {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-              {% endif %}
-
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=profile.image -%}
-            {% endif -%}
-            {%- if profile.more_info %}
+          {%- if profile.more_info -%}
             <div class="more-info">
               {{ profile.more_info }}
             </div>
-            {%- endif %}
-          </div>
+          {%- endif -%}
+        </div>
 
-          <div class="clearfix">
-            {% if profile.content -%}
-            {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
+        <div class="clearfix">
+          {%- if profile.content -%}
+            {%- capture profile_content -%}{% include_relative {{ profile.content }} %}{%- endcapture -%}
             {{ profile_content | markdownify }}
-            {%- else -%}
+          {%- else -%}
             {{ content }}
-            {%- endif %}
-          </div>
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+    {%- endif -%}
 
-          {% endfor %}
-          {%- endif %}
-        </article>
+    {%- if page.former_profiles and page.former_profiles.size > 0 -%}
+      <hr>
+      <h2 id="former-people">Former people</h2>
 
+      {%- for profile in page.former_profiles -%}
+        <hr>
+        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          {%- if profile.image -%}
+            {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+            {%- if profile.image_circular -%}
+              {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+            {%- else -%}
+              {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+            {%- endif -%}
+            {%- include figure.html path=profile_image_path class=profile_image_class alt=profile.image -%}
+          {%- endif -%}
+
+          {%- if profile.more_info -%}
+            <div class="more-info">
+              {{ profile.more_info }}
+            </div>
+          {%- endif -%}
+        </div>
+
+        <div class="clearfix">
+          {%- if profile.content -%}
+            {%- capture profile_content -%}{% include_relative {{ profile.content }} %}{%- endcapture -%}
+            {{ profile_content | markdownify }}
+          {%- else -%}
+            {{ content }}
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+    {%- endif -%}
+
+  </article>
 </div>
-
-
-
