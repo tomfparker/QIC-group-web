@@ -37,6 +37,12 @@ profiles:
     image_square: true
 
   - align: left
+    image: maite.jpg
+    content: about_maite.md
+    image_circular: false # crops the image to make it circular
+    image_square: true
+
+  - align: left
     image: mehrad.jpg
     content: about_mehrad.md
     image_circular: false # crops the image to make it circular
