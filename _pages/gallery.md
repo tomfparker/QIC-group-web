@@ -21,6 +21,11 @@ horizontal: false
 </figure>
 
 <figure>
+  <img src="../assets/img/gallery/QIC_Christmas_2025.jpg" alt="QIC Christmas Party December 2025" style="max-width: 100%; height: auto;">
+  <figcaption>QIC Christmas Party December 2025</figcaption>
+</figure>
+
+<figure>
   <img src="../assets/img/gallery/Blackboard-QIC-1152x648.jpg" alt="A pretty blackboard" style="max-width: 100%; height: auto;">
   <figcaption>A pretty blackboard</figcaption>
 </figure>

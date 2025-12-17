@@ -109,7 +109,7 @@ former_profiles:
     image: tyson.jpg
     content: about_tyson.md
     image_circular: false # crops the image to make it circular
-    image_square: true
-
+    image_square: true  
+      
 ---
 
