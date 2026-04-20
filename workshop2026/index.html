@@ -1,49 +1,132 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quantum Workshop 2026 | EPFL</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans">
+<body class="bg-slate-50 text-slate-800 font-sans antialiased">
 
-    <nav class="bg-white shadow-sm sticky top-0 z-50 border-b border-gray-200">
-        <div class="max-w-6xl mx-auto px-4 py-4 flex flex-wrap justify-between items-center gap-4">
-            <span class="font-bold text-xl text-blue-900">Bernoulli Center</span>
-            <div class="space-x-4 text-sm font-medium">
-                <a href="index.html" class="text-blue-600 font-bold border-b-2 border-blue-600">Home</a>
-                <a href="program.html" class="hover:text-blue-600 text-gray-600">Program</a>
-                <a href="info.html" class="hover:text-blue-600 text-gray-600">Practical Info</a>
-                <a href="attendees.html" class="hover:text-blue-600 text-gray-600">Attendees</a>
+    <nav class="bg-white/90 backdrop-blur-md shadow-sm sticky top-0 z-50 border-b border-slate-200">
+        <div class="max-w-6xl mx-auto px-6 py-4 flex flex-wrap justify-between items-center gap-4">
+            <div class="flex items-center gap-2">
+                <span class="font-extrabold text-2xl tracking-tight text-red-600">EPFL</span>
+                <span class="text-slate-400">|</span>
+                <span class="font-semibold text-lg text-slate-800">Quantum Workshop 2026</span>
+            </div>
+            <div class="space-x-6 text-sm font-semibold text-slate-500">
+                <a href="#home" class="hover:text-red-600 transition-colors">Home</a>
+                <a href="#program" class="hover:text-red-600 transition-colors">Program</a>
+                <a href="#info" class="hover:text-red-600 transition-colors">Practical Info</a>
+                <a href="#attendees" class="hover:text-red-600 transition-colors">Attendees</a>
             </div>
         </div>
     </nav>
 
-    <section class="py-20 bg-blue-900 text-white text-center">
-        <div class="max-w-4xl mx-auto px-4">
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">Intersection of Quantum Learning Theory, Quantum Sensing, and Quantum Verification</h1>
-            <p class="text-xl mb-8 text-blue-200">27 April – 01 May 2026 | Bernoulli Center, EPFL</p>
-            <p class="leading-relaxed text-left text-gray-100">
-                This workshop brings together the communities of quantum learning theory, quantum sensing, and quantum verification to explore their shared challenges and opportunities. While each field has made significant independent progress, interaction between them has historically been limited despite their closely related goals. Motivated by both rigorous theory and rapid experimental advances, the workshop aims to foster meaningful cross-disciplinary dialogue, with a particular focus on the capabilities of near- and intermediate-term quantum devices. 
+    <section id="home" class="py-24 bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white text-center border-b-4 border-red-600">
+        <div class="max-w-4xl mx-auto px-6">
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight mb-6 leading-tight">
+                Intersection of Quantum Learning Theory, Sensing, and Verification
+            </h1>
+            <p class="text-xl md:text-2xl mb-10 text-slate-300 font-light">
+                27 April – 01 May 2026 | EPFL Campus
+            </p>
+            <p class="leading-relaxed text-left text-slate-300 text-lg md:text-xl border-l-4 border-red-600 pl-6">
+                This workshop brings together the communities of quantum learning theory, quantum sensing, and quantum verification to explore their shared challenges and opportunities. Motivated by both rigorous theory and rapid experimental advances, the workshop aims to foster meaningful cross-disciplinary dialogue, with a particular focus on the capabilities of near- and intermediate-term quantum devices. 
             </p>
         </div>
     </section>
 
-    <section class="py-20 max-w-6xl mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-12 text-blue-900">Organizers</h2>
+    <section class="py-16 max-w-6xl mx-auto px-6 border-b border-slate-200">
+        <h2 class="text-3xl font-extrabold text-center mb-10 text-slate-900 tracking-tight">Organizing Committee</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
-            <div class="bg-white p-6 rounded shadow-sm border border-gray-200">
-                <h3 class="font-bold text-xl text-gray-900">Zoë Holmes</h3>
-                <p class="text-blue-600 font-medium">EPFL</p>
+            <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow duration-300">
+                <h3 class="font-bold text-xl text-slate-900">Zoë Holmes</h3>
+                <p class="text-red-600 font-medium mt-1">EPFL</p>
             </div>
-            <div class="bg-white p-6 rounded shadow-sm border border-gray-200">
-                <h3 class="font-bold text-xl text-gray-900">Yihui Quek</h3>
-                <p class="text-blue-600 font-medium">EPFL</p>
+            <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow duration-300">
+                <h3 class="font-bold text-xl text-slate-900">Yihui Quek</h3>
+                <p class="text-red-600 font-medium mt-1">EPFL</p>
             </div>
-            <div class="bg-white p-6 rounded shadow-sm border border-gray-200">
-                <h3 class="font-bold text-xl text-gray-900">Thomas Vidick</h3>
-                <p class="text-blue-600 font-medium">EPFL</p>
+            <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow duration-300">
+                <h3 class="font-bold text-xl text-slate-900">Thomas Vidick</h3>
+                <p class="text-red-600 font-medium mt-1">EPFL</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="program" class="py-20 bg-slate-100 border-b border-slate-200 pt-28 -mt-20">
+        <div class="max-w-6xl mx-auto px-6">
+            <h2 class="text-3xl font-extrabold text-center mb-10 text-slate-900 tracking-tight">Workshop Schedule</h2>
+            <div class="bg-white shadow-lg rounded-xl w-full h-[80vh] border border-slate-200 overflow-hidden relative">
+                <object data="WorkshopProgram.pdf" type="application/pdf" width="100%" height="100%">
+                    <div class="flex flex-col items-center justify-center h-full p-8 text-center bg-slate-50">
+                        <p class="mb-4 text-lg text-slate-600">Your browser does not support embedded PDFs.</p>
+                        <a href="WorkshopProgram.pdf" download class="bg-slate-900 text-white px-8 py-3 rounded-lg font-bold hover:bg-red-600 transition-colors shadow-md">Download Program (PDF)</a>
+                    </div>
+                </object>
+            </div>
+        </div>
+    </section>
+
+    <section id="info" class="py-20 max-w-6xl mx-auto px-6 border-b border-slate-200 pt-28 -mt-20">
+        <h2 class="text-3xl font-extrabold text-center mb-10 text-slate-900 tracking-tight">Travel & Accommodation</h2>
+        
+        <div class="bg-white shadow-lg rounded-xl w-full h-[600px] border border-slate-200 overflow-hidden mb-16 relative">
+            <object data="TravelInfo.pdf" type="application/pdf" width="100%" height="100%">
+                <div class="flex flex-col items-center justify-center h-full p-8 text-center bg-slate-50">
+                    <p class="mb-4 text-lg text-slate-600">Your browser does not support embedded PDFs.</p>
+                    <a href="TravelInfo.pdf" download class="bg-slate-900 text-white px-8 py-3 rounded-lg font-bold hover:bg-red-600 transition-colors shadow-md">Download Travel Info (PDF)</a>
+                </div>
+            </object>
+        </div>
+
+        <h3 class="text-2xl font-extrabold text-slate-900 mb-8 border-b-2 border-slate-100 pb-4 tracking-tight">Recommended Local Dining</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-white p-8 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow duration-300">
+                <h4 class="font-bold text-xl text-slate-900">Brasserie de Montbenon</h4>
+                <p class="text-sm font-medium text-red-600 mb-3">Swiss / Brasserie • Allée Ernest-Ansermet 3</p>
+                <p class="text-slate-600">Classic Swiss dishes in a beautiful historic building with lake views. (Location of the conference dinner).</p>
+            </div>
+            <div class="bg-red-50 p-8 rounded-xl shadow-sm border border-red-200">
+                <h4 class="font-bold text-xl text-slate-900">[Add Restaurant Name Here]</h4>
+                <p class="text-sm font-medium text-red-600 mb-3">Cuisine Type • Address</p>
+                <p class="text-slate-600">Brief description of why you recommend it and price range.</p>
+            </div>
+             <div class="bg-red-50 p-8 rounded-xl shadow-sm border border-red-200">
+                <h4 class="font-bold text-xl text-slate-900">[Add Restaurant Name Here]</h4>
+                <p class="text-sm font-medium text-red-600 mb-3">Cuisine Type • Address</p>
+                <p class="text-slate-600">Brief description of why you recommend it and price range.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="attendees" class="py-20 bg-slate-100 pt-28 -mt-20">
+        <div class="max-w-4xl mx-auto px-6">
+            <h2 class="text-3xl font-extrabold text-center mb-10 text-slate-900 tracking-tight">Confirmed Attendees</h2>
+            
+            <div class="bg-white shadow-lg rounded-xl border border-slate-200 overflow-hidden">
+                <ul class="divide-y divide-slate-100">
+                    <li class="p-6 hover:bg-slate-50 transition-colors flex justify-between items-center bg-red-50/50">
+                        <div>
+                            <p class="font-bold text-lg text-slate-900">[Dr. Firstname Lastname]</p>
+                            <p class="text-sm font-medium text-slate-500 mt-1">[Institution Name]</p>
+                        </div>
+                    </li>
+                    <li class="p-6 hover:bg-slate-50 transition-colors flex justify-between items-center bg-red-50/50">
+                        <div>
+                            <p class="font-bold text-lg text-slate-900">[Jane Doe]</p>
+                            <p class="text-sm font-medium text-slate-500 mt-1">[Institution Name]</p>
+                        </div>
+                    </li>
+                    <li class="p-6 hover:bg-slate-50 transition-colors flex justify-between items-center bg-red-50/50">
+                        <div>
+                            <p class="font-bold text-lg text-slate-900">[John Smith]</p>
+                            <p class="text-sm font-medium text-slate-500 mt-1">[Institution Name]</p>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
     </section>
