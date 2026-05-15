@@ -49,7 +49,7 @@ profiles:
     image_square: true
 
   - align: left
-    image: sergi.jpeg
+    image: sergi.jpg
     content: about_sergi.md
     image_circular: false # crops the image to make it circular
     image_square: true
