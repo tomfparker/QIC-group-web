@@ -146,6 +146,8 @@ former_profiles:
 
 **2023-2024**
 
+* Giorgio Facelli: PhD at University of Cambridge
+
 * Marin Girard: PhD at Virginia Tech
 
 * Oxana Shaya: PhD at Leibniz Universität Hannover
