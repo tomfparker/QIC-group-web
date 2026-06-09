@@ -125,32 +125,27 @@ former_profiles:
       
 ---
 
+---
 ### Master Students:
-
+---
 
 
 **2025-2026**
 
-* Julia Gerecke: Now PhD at Oxford
+* Julia Gerecke: PhD at Oxford
 
-* Joachim Favre: Now PhD at Princeton
+* Joachim Favre: PhD at Princeton
 
 
 
 **2024-2025**
 
-* Andrew Wright Garcia: Now PhD at Nanyang Technological University in Singapore
+* Andrew Wright Garcia: PhD at Nanyang Technological University in Singapore
 
 
 
 **2023-2024**
 
-* Marin Girard: Now PhD at Virginia Tech
+* Marin Girard: PhD at Virginia Tech
 
-* Oxana Shaya: Now PhD at Leibniz Universität Hannover
-
-
-
-**2022-2023**
-
-* Charles Marchand: Now Support Product Engineer at NovoViz SA
+* Oxana Shaya: PhD at Leibniz Universität Hannover
