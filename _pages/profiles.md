@@ -126,7 +126,7 @@ former_profiles:
 ---
 
 ---
-### Master Students:
+### Master Students
 ---
 
 
