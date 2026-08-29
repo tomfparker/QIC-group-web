@@ -97,12 +97,6 @@ profiles:
     image_square: true
 
   - align: left
-    image: Joe.jpg
-    content: about_joe.md
-    image_circular: false # crops the image to make it circular
-    image_square: true
-
-  - align: left
     image: marc.jpg
     content: about_marc.md
     image_circular: false # crops the image to make it circular
@@ -122,6 +116,12 @@ former_profiles:
     content: about_tyson.md
     image_circular: false # crops the image to make it circular
     image_square: true  
+
+  - align: left
+    image: Joe.jpg
+    content: about_joe.md
+    image_circular: false # crops the image to make it circular
+    image_square: true
       
 ---
 
