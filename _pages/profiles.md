@@ -151,3 +151,35 @@ former_profiles:
 * Marin Girard: PhD at Virginia Tech
 
 * Oxana Shaya: PhD at Leibniz Universität Hannover
+
+
+---
+
+---
+### Firends of the group
+---
+
+
+**2025-2026**
+
+* Jay (Haochen) Li: PhD at Nanyang Technological University
+
+* Nikita Guseynov: PhD at Shanghai Jiao Tong University
+
+
+
+**2024-2025**
+
+* Su Yeon Chang: Assistant professor at KyungHee University
+
+* Michele Minervini: PhD at Cornell University
+
+* Truman Ng Yu: PhD at National University of Singapore
+
+* Joshua Goldman: PhD at McGill University
+
+* Zachary Morrell: PhD at University of Chicago
+
+
+
+
