@@ -162,23 +162,23 @@ former_profiles:
 
 **2025-2026**
 
-* Jay (Haochen) Li: Visiting PhD Student, now PhD at Nanyang Technological University
+* Jay (Haochen) Li: Visiting PhD Student, currently PhD at Nanyang Technological University
 
-* Nikita Guseynov: Visiting PhD Student, now PhD at Shanghai Jiao Tong University
+* Nikita Guseynov: Visiting PhD Student, currently PhD at Shanghai Jiao Tong University
 
 
 
 **2024-2025**
 
-* Su Yeon Chang: Temporary Post Doc, now assistant professor at KyungHee University
+* Su Yeon Chang: Temporary Post Doc, incoming assistant professor at KyungHee University
 
-* Michele Minervini: Visiting PhD Student, now PhD at Cornell University
+* Michele Minervini: Visiting PhD Student, currently PhD at Cornell University
 
-* Truman Ng Yu: Visiting PhD Student, now PhD at National University of Singapore
+* Truman Ng Yu: Visiting PhD Student, currently PhD at National University of Singapore
 
-* Joshua Goldman: Visiting PhD Student, now PhD at McGill University
+* Joshua Goldman: Visiting PhD Student, currently PhD at McGill University
 
-* Zachary Morrell: Visiting PhD Student, now PhD at University of Chicago
+* Zachary Morrell: Visiting PhD Student, currently PhD at University of Chicago
 
 
 
