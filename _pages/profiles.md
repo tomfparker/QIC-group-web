@@ -153,7 +153,7 @@ former_profiles:
 * Oxana Shaya: PhD at Leibniz Universität Hannover
 
 
----
+
 
 ---
 ### Firends of the group
