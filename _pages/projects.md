@@ -48,6 +48,72 @@ That said, we are a group that tends to get excited by different ideas quite qui
 
 
 ---
+### What is quantum machine learning, really?
+Zoë Holmes, 2026 IBM Research
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/yTuLLYpU5jE?si=oMHHYK4y-zAiXWUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+#### Zoë Holmes | Between Two Kets
+Zoë Holmes, PennyLane 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/embed/3Hc9pq5bsWM?si=xGmYx5L7Uc_xHcV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+#### Does provable absence of barren plateaus imply classical simulability?
+Zoë Holmes, Quantum Spain 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/embed/KDvHuFOooKw?si=tC4qjVZlaSRPdDPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+#### Pauli propagation for classically simulating quantum circuits
+Manuel Rudolph, HonHai (Foxconn) QC meeting 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/embed/rapEvVx4gt8?si=yR6bVqxwimtYvfB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
+
+#### On fundamental aspects of quantum extreme learning machines
+Weijie Xiong, QAISG 2024.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/embed/Si_Dk0DJtl8?si=9CPH9JrcHH_txTbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+---
+
+
+#### Trainability barriers and opportunities in quantum generative modeling
+Manuel Rudolph, QAISG 2023.
+
+<div class="video-container">
+  <iframe  src="https://www.youtube.com/embed/Akh-0v8tBkE?si=MFOUWXb1NSiXtjEn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+---
+
 
 #### Exponential Concentration in Quantum Generative Modeling and Quantum Kernel Methods
 Zoë Holmes, 2023 Mathematical Aspects of Quantum Learning Workshop.
@@ -103,56 +169,3 @@ Manuel Rudolph, QRST 2021.
 <br/>
 
 ---
-
-#### Trainability barriers and opportunities in quantum generative modeling
-Manuel Rudolph, QAISG 2023.
-
-<div class="video-container">
-  <iframe  src="https://www.youtube.com/embed/Akh-0v8tBkE?si=MFOUWXb1NSiXtjEn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<br/>
-
----
-
-#### Pauli propagation for classically simulating quantum circuits
-Manuel Rudolph, HonHai (Foxconn) QC meeting 2024.
-
-<div class="video-container">
-  <iframe  src="https://www.youtube.com/embed/rapEvVx4gt8?si=yR6bVqxwimtYvfB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<br/>
-
----
-
-#### Does provable absence of barren plateaus imply classical simulability?
-Zoë Holmes, Quantum Spain 2024.
-
-<div class="video-container">
-  <iframe  src="https://www.youtube.com/embed/KDvHuFOooKw?si=tC4qjVZlaSRPdDPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<br/>
-
----
-
-#### Zoë Holmes | Between Two Kets
-Zoë Holmes, PennyLane 2024.
-
-<div class="video-container">
-  <iframe  src="https://www.youtube.com/embed/3Hc9pq5bsWM?si=xGmYx5L7Uc_xHcV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<br/>
-
----
-
-#### On fundamental aspects of quantum extreme learning machines
-Weijie Xiong, QAISG 2024.
-
-<div class="video-container">
-  <iframe  src="https://www.youtube.com/embed/Si_Dk0DJtl8?si=9CPH9JrcHH_txTbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<br/>
