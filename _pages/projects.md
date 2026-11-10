@@ -51,8 +51,7 @@ That said, we are a group that tends to get excited by different ideas quite qui
   <iframe
     src="{{ '/assets/img/research/QIC_at_EPFL_poster.pdf' | relative_url }}"
     width="100%"
-    height="800px"
-    style="aspect-ratio: 420 / 297; height: auto; border: none;"
+    style="width: 100%; height: 95vw; max-height: 900px; min-height: 600px; border: none;"
     title="QIC at EPFL">
   </iframe>
 </div>
