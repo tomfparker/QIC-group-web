@@ -53,7 +53,7 @@ That said, we are a group that tends to get excited by different ideas quite qui
     width="100%"
     height="800px"
     style="aspect-ratio: 420 / 297; height: auto; border: none;"
-    title="QIC at EPFL poster">
+    title="QIC at EPFL">
   </iframe>
 </div>
 
