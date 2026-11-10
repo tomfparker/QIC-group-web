@@ -91,7 +91,6 @@ Manuel Rudolph, HonHai (Foxconn) QC meeting 2024.
 
 ---
 
-
 #### On fundamental aspects of quantum extreme learning machines
 Weijie Xiong, QAISG 2024.
 
@@ -100,8 +99,8 @@ Weijie Xiong, QAISG 2024.
 </div>
 
 <br/>
----
 
+---
 
 #### Trainability barriers and opportunities in quantum generative modeling
 Manuel Rudolph, QAISG 2023.
@@ -113,7 +112,6 @@ Manuel Rudolph, QAISG 2023.
 <br/>
 
 ---
-
 
 #### Exponential Concentration in Quantum Generative Modeling and Quantum Kernel Methods
 Zoë Holmes, 2023 Mathematical Aspects of Quantum Learning Workshop.
@@ -168,4 +166,4 @@ Manuel Rudolph, QRST 2021.
 
 <br/>
 
----
+
