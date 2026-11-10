@@ -44,10 +44,23 @@ Secondly, we are interested in developing new methods, and better understanding 
 
 That said, we are a group that tends to get excited by different ideas quite quickly, so by the time you read it this description might be a little out of date. The best thing to do is click through our google scholar pages on the ‘people’ page to get a sense of the type of things we’ve recently been publishing on. You can also watch talks from members of the QIC group below.
 
+---
 
 
+<div style="width: 100%; margin: 20px auto;">
+  <iframe
+    src="{{ '/assets/img/research/QIC_at_EPFL_poster.pdf' | relative_url }}"
+    width="100%"
+    height="800px"
+    style="border: 1px solid #ddd;"
+    title="QIC at EPFL poster">
+  </iframe>
+</div>
+
+<hr/>
 
 ---
+
 ### What is quantum machine learning, really?
 Zoë Holmes, 2026 IBM Research
 
