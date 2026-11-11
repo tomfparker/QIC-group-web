@@ -49,21 +49,14 @@ That said, we are a group that tends to get excited by different ideas quite qui
 <h2>QIC at EPFL</h2>
 
 <div class="poster-section">
-  <a href="{{ '/assets/img/research/QIC_at_EPFL_poster.pdf' | relative_url }}"
+  <a href="{{ '/assets/img/research/QIC_at_EPFL.pdf' | relative_url }}"
      target="_blank"
      rel="noopener">
     <img
       src="{{ '/assets/img/research/QIC_at_EPFL.png' | relative_url }}"
       alt="Quantum Information and Computing at EPFL poster">
   </a>
-
-  <p>
-    <a href="{{ '/assets/img/research/QIC_at_EPFL_poster.pdf' | relative_url }}"
-       target="_blank"
-       rel="noopener">
-      View full poster (PDF)
-    </a>
-  </p>
+  
 </div>
 
 <style>
