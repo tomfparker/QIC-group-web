@@ -46,18 +46,45 @@ That said, we are a group that tends to get excited by different ideas quite qui
 
 ---
 
+<h2>QIC at EPFL</h2>
 
-<div style="width: 100%; margin: 20px auto;">
-  <iframe
-    src="{{ '/assets/img/research/QIC_at_EPFL_poster.pdf' | relative_url }}"
-    width="100%"
-    style="aspect-ratio: 420 / 297; height: auto; border: none;"
-    title="QIC at EPFL">
-  </iframe>
+<div class="poster-section">
+  <a href="{{ '/assets/img/research/QIC_at_EPFL_poster.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener">
+    <img
+      src="{{ '/assets/img/research/QIC_at_EPFL.png' | relative_url }}"
+      alt="Quantum Information and Computing at EPFL poster">
+  </a>
+
+  <p>
+    <a href="{{ '/assets/img/research/QIC_at_EPFL_poster.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener">
+      View full poster (PDF)
+    </a>
+  </p>
 </div>
 
-<hr/>
+<style>
+.poster-section {
+  width: 100%;
+  max-width: 1100px;
+  margin: 25px auto;
+  text-align: center;
+}
 
+.poster-section img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.poster-section p {
+  margin-top: 12px;
+}
+</style>
 
 ---
 
@@ -131,17 +158,6 @@ Zoë Holmes, 2023 Mathematical Aspects of Quantum Learning Workshop.
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/V81sx-d3lIA?si=bIyKSYJxecw6zB7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<br/>
-
----
-
-#### Trainability Barriers and Opportunities in Quantum Generative Modeling
-Manuel Rudolph, QAISG 2023.
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Akh-0v8tBkE?si=KuSIbhqCTfCws9VA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br/>
