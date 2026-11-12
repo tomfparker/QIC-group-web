@@ -56,7 +56,7 @@ That said, we are a group that tends to get excited by different ideas quite qui
       src="{{ '/assets/img/research/QIC_at_EPFL.png' | relative_url }}"
       alt="Quantum Information and Computing at EPFL poster">
   </a>
-  
+
 </div>
 
 <style>
@@ -78,6 +78,17 @@ That said, we are a group that tends to get excited by different ideas quite qui
   margin-top: 12px;
 }
 </style>
+
+---
+
+### Algorithms at the quantum-classical boundary
+Zoë Holmes, 2026 The Zurich Physics Colloquium, ETHZ
+
+<div class="video-container">
+  <iframe src="https://video.ethz.ch/~embed/!v/EoHE4gMfdpX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br/>
 
 ---
 
