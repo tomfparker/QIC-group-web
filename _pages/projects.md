@@ -82,7 +82,7 @@ That said, we are a group that tends to get excited by different ideas quite qui
 ---
 
 ### Algorithms at the quantum-classical boundary
-Zoë Holmes, 2026 The Zurich Physics Colloquium, ETHZ
+Zoë Holmes, 2026 The Zurich Physics Colloquium, ETHZ.
 
 <div class="video-container">
   <iframe src="https://video.ethz.ch/~embed/!v/EoHE4gMfdpX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -93,7 +93,7 @@ Zoë Holmes, 2026 The Zurich Physics Colloquium, ETHZ
 ---
 
 ### What is quantum machine learning, really?
-Zoë Holmes, 2026 IBM Research
+Zoë Holmes, 2026 IBM Research.
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/yTuLLYpU5jE?si=oMHHYK4y-zAiXWUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
