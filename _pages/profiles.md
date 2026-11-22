@@ -156,7 +156,7 @@ former_profiles:
 
 
 ---
-### Firends of the group
+### Friends of the group
 ---
 
 
